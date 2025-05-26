@@ -63,7 +63,7 @@ You can **sort and filter results in real time** to identify the highest yieldin
 
 ### ✅ What You’ll Need:
 
-1. A **Schwab API developer account** — register at [Schwab Developer Portal](https://developer.schwabapi.com) - this may take a few days.
+1. A **Schwab API developer account** — register at Schwab Developer Portal - this may take a few days.
 2. Create a new app in your Schwab account and **note your client ID and secret**
 3. Set the **redirect URI** to: `https://127.0.0.1`
 4. Save your credentials in a `.env` file:
