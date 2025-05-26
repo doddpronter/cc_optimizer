@@ -30,10 +30,12 @@ Then it computes:
   `stockReturnCap = max(0, K / S - 1)`
 
 - **Premium Return**  
-    ```if K < S:
+    ```
+    if K < S:
         premiumReturn = (B / S) - (S / K - 1)
     else:
-        premiumReturn = B / S```
+        premiumReturn = B / S
+        ```
 
 
 - **Annualized Premium Return**  
