@@ -1,0 +1,24 @@
+# Virtual environment
+cc_optimizer/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# macOS-specific
+.DS_Store
+
+# Output files
+*.log
+*.sqlite3
