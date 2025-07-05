@@ -2,7 +2,7 @@
 
 ## ⚠️ Disclaimer
 
-This tool is provided **for educational and informational purposes only**.  
+This tool is provided **for educational and informational purposes only**.
 Nothing in this repository constitutes financial, legal, or investment advice.  
 By using this code, you acknowledge that you do so **at your own discretion and risk**.  
 **I am not liable for any financial losses, outcomes, or decisions made** based on this tool or its outputs.  
@@ -10,6 +10,16 @@ Always consult with a licensed financial advisor before making investment decisi
 By using, cloning, or modifying this code, you **agree to these terms**.
 
 ---
+## Note
+Since pushing this and receiving great feedback, I decided to port it over to [OptionTerminal.com](https://optionterminal.com) as a **free real-time options strategy calculator** for everyone's use.
+
+There is **zero coding knowledge needed** — you can now visualize, test, and compare option strategies instantly using live data. 
+
+If you're a developer or curious about the original backend logic, feel free to explore this repo — I’m leaving it up for transparency and experimentation.
+
+🔗 Try the tool here: [https://optionterminal.com](https://optionterminal.com)
+
+🛠 Built for: beginner and intermediate traders, options education, and real-time strategy planning.
 
 ## 🧠 What This Tool Does
 
